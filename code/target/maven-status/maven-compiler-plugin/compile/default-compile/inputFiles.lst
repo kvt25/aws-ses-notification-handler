@@ -1,7 +1,0 @@
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\data\SNSNotificationMessageData.java
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\data\SNSNotificationRecipientObjectData.java
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\Application.java
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\HandleAWSNotificationsController.java
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\data\AbstractSNSNotificationJSONData.java
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\data\SNSNotificationBounceObjectData.java
-D:\WORKSPACES\JAVA\aws-ses-notifications\src\main\java\com\kienvo\aws\notification\data\SNSNotificationComplaintObjectData.java
