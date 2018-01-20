@@ -1,0 +1,7 @@
+com\kienvo\aws\notification\Application.class
+com\kienvo\aws\notification\data\SNSNotificationRecipientObjectData.class
+com\kienvo\aws\notification\data\AbstractSNSNotificationJSONData.class
+com\kienvo\aws\notification\data\SNSNotificationMessageData.class
+com\kienvo\aws\notification\HandleAWSNotificationsController.class
+com\kienvo\aws\notification\data\SNSNotificationBounceObjectData.class
+com\kienvo\aws\notification\data\SNSNotificationComplaintObjectData.class
